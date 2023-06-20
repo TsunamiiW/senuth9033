@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @senuth9033
+- 👋 Hi, I’m @senuth9033!
+- 🔴 Welcome to my profile!
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Python.
 
